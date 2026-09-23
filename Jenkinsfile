@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         APP_NAME = 'student-feedback-portal'
-        TOMCAT_WEBAPPS = "C:\\apache-tomcat\\webapps"
+        TOMCAT_WEBAPPS = "C:\\TomCat\\apache-tomcat-10.1.44-windows-x64\\apache-tomcat-10.1.44\\webapps"
         TOMCAT_URL = 'http://localhost:8081/student-feedback-portal/health'
     }
 
