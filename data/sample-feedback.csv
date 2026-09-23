@@ -1,0 +1,21 @@
+name,email,feedback,rating,date
+Asha,asha@example.com,Great mentoring support,5,2026-07-01
+Riya,riya@example.com,Useful DevOps sessions,4,2026-07-03
+Arjun,arjun@example.com,Clear explanations,5,2026-07-05
+Kabir,kabir@example.com,Good hands-on practice,4,2026-07-08
+Meera,meera@example.com,Helpful assignments,5,2026-07-10
+Zoya,zoya@example.com,Enjoyed the CI/CD demo,4,2026-07-12
+Ishaan,ishaan@example.com,Tomcat deployment was useful,5,2026-07-14
+Anaya,anaya@example.com,More practice would help,4,2026-07-16
+Neha,neha@example.com,Good Git workflow coverage,5,2026-07-18
+Dev,dev@example.com,Jenkins stages were clear,5,2026-07-20
+Sara,sara@example.com,Interesting Maven session,4,2026-07-22
+Rahul,rahul@example.com,Rollback demo was useful,5,2026-07-24
+Pooja,pooja@example.com,Good troubleshooting practice,4,2026-07-26
+Aditya,aditya@example.com,Useful logs explanation,5,2026-07-28
+Ira,ira@example.com,The project flow was clear,4,2026-07-30
+Vikram,vikram@example.com,Good deployment exercise,5,2026-08-01
+Mahi,mahi@example.com,Helpful health-check topic,4,2026-08-03
+Om,om@example.com,Good practical learning,5,2026-08-05
+Nisha,nisha@example.com,Clear pipeline stages,5,2026-08-07
+Sahil,sahil@example.com,Good overall experience,4,2026-08-09
